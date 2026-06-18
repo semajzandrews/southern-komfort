@@ -1,0 +1,13 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "soko-3002",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--", "-p", "3002"],
+      "port": 3002,
+      "autoPort": false,
+      "cwd": "/Users/sandrews/.hermes/projects/AI_SOFTWARE_FACTORY/builds/southern-komfort"
+    }
+  ]
+}
